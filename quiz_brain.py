@@ -51,7 +51,7 @@ class QuizBrain(GetData):
         self.question_number = 0
         self.score = 0
 
-        print(self.q_obj.question_bank)
+        #print(self.q_obj.question_bank)
 
 
 
